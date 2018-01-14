@@ -1,0 +1,9 @@
+var logo = document.getElementById('hplogo');
+logo.srcset="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102010/untitled-1_51.png?itok=i9NshmIi"
+document.getElementsByTagName("center")[0].firstChild
+
+var text1 = document.getElementsByTagName("center")[0].firstChild
+text1.value = "Cauta yahoo"
+
+
+
